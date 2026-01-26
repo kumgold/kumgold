@@ -35,7 +35,7 @@
 ---
 
 ### 📚 Featured Repository
-- 📝 **[Android-Interview-Questions](https://github.com/kumgold/android-interview-questions)**: 안드로이드 및 플러터 면접 대비 핵심 개념 정리
+- 📝 **[Android-Interview-Questions](https://github.com/kumgold/android-interview-questions)**: 안드로이드 면접 대비 핵심 개념 정리
 - 📝 **[Retrofit-Clone](https://github.com/kumgold/retrofit-clone)**: Java Dynamic Proxy와 Reflection을 이용해 Retrofit의 동작 원리를 바닥부터 구현
 
 ---
