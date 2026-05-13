@@ -1,7 +1,7 @@
 # Hi there, I'm GOLD! 👋
 
 ### 👨‍💻 About Me
-- 📱 **5+ Years Mobile Developer** specializing in **Android & Flutter**.
+- 📱 **4+ Years Mobile Developer** specializing in **Android & Flutter**.
 - 🏗️ Deep interest in **Clean Architecture, MVVM, MVI, Riverpod and BLoC**.
 - 🚀 Experienced in optimizing high-traffic apps (**MAU 300K+**).
 - 🎨 Modern UI enthusiast using **Jetpack Compose** and **Flutter**.
